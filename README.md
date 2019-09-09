@@ -1,2 +1,3 @@
 # Hello-World
-My name is Asma, and I am studying Computer Sciences at Montgomery college MD. 
+My name is Asma.
+I am a Computer Science major, and studying at Montgomery college MD. 
